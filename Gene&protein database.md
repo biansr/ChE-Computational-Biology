@@ -18,3 +18,4 @@ This tool will automatically detect whether the inquiries are nucleotides or pep
 ## How to use
 [Blast glossary](http://www.ncbi.nlm.nih.gov/books/NBK62051/)
 
+## Example: [MAP2K4](http://www.ncbi.nlm.nih.gov/gene/6416)
